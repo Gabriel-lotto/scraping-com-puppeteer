@@ -1,2 +1,2 @@
 # scraping-com-puppeteer
-web scraping com Puppeteer + quebra de reCaptcha
+web scraping com Puppeteer 
